@@ -1,7 +1,7 @@
-package me.skitttyy.kami.api.event.events.render;
+package me.mapwelo.kami.api.event.events.render;
 
 import lombok.Setter;
-import me.skitttyy.kami.api.event.Event;
+import me.mapwelo.kami.api.event.Event;
 import lombok.Getter;
 import net.minecraft.client.gui.screen.Screen;
 

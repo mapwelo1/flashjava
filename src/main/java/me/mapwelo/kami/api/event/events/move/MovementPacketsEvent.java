@@ -1,8 +1,8 @@
-package me.skitttyy.kami.api.event.events.move;
+package me.mapwelo.kami.api.event.events.move;
 
 import lombok.Getter;
 import lombok.Setter;
-import me.skitttyy.kami.api.event.Event;
+import me.mapwelo.kami.api.event.Event;
 
 @Getter
 @Setter

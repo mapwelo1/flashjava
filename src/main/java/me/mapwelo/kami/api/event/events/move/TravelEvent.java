@@ -1,7 +1,7 @@
-package me.skitttyy.kami.api.event.events.move;
+package me.mapwelo.kami.api.event.events.move;
 
 import lombok.Getter;
-import me.skitttyy.kami.api.event.Event;
+import me.mapwelo.kami.api.event.Event;
 import net.minecraft.util.math.Vec3d;
 
 

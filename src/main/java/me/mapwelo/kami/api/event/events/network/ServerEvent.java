@@ -1,11 +1,11 @@
-package me.skitttyy.kami.api.event.events.network;
+package me.mapwelo.kami.api.event.events.network;
 
-import me.skitttyy.kami.api.event.Event;
+import me.mapwelo.kami.api.event.Event;
 import net.minecraft.client.network.ServerAddress;
 import net.minecraft.client.network.ServerInfo;
 
 /**
- * @see me.skitttyy.kami.mixin.MixinClientPlayNetworkHandler
+ * @see me.mapwelo.kami.mixin.MixinClientPlayNetworkHandler
  */
 public class ServerEvent {
 

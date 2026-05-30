@@ -1,6 +1,6 @@
-package me.skitttyy.kami.api.event.events.render;
+package me.mapwelo.kami.api.event.events.render;
 
-import me.skitttyy.kami.api.event.Event;
+import me.mapwelo.kami.api.event.Event;
 
 public class FrameEvent {
     public static class FrameFlipEvent extends Event {

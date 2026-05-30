@@ -1,7 +1,7 @@
-package me.skitttyy.kami.api.event.events.render;
+package me.mapwelo.kami.api.event.events.render;
 
 import lombok.Getter;
-import me.skitttyy.kami.api.event.Event;
+import me.mapwelo.kami.api.event.Event;
 import net.minecraft.block.BlockState;
 import net.minecraft.util.math.BlockPos;
 

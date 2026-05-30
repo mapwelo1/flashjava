@@ -1,8 +1,8 @@
-package me.skitttyy.kami.api.event.events.render;
+package me.mapwelo.kami.api.event.events.render;
 
 import lombok.Getter;
-import me.skitttyy.kami.api.event.Event;
-import me.skitttyy.kami.api.event.eventbus.SubscribeEvent;
+import me.mapwelo.kami.api.event.Event;
+import me.mapwelo.kami.api.event.eventbus.SubscribeEvent;
 import net.minecraft.client.render.RenderLayer;
 import net.minecraft.client.render.VertexConsumerProvider;
 import net.minecraft.client.render.entity.feature.FeatureRenderer;
